@@ -22,4 +22,5 @@ app.use('/api', routes);
 
 app.listen(port, function() {
     console.log('API Listening on port ' + port + '...')
+    console.log('Send api requests to: http://<server>:' + port + '/api/<route>')
 });
