@@ -1,0 +1,11 @@
+{
+    "name": "node-api-template",
+    "version": "1.0.0",
+    "description": "node-api-template",
+    "author": "Matt Weaver",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "express": "^4.14.0"
+    }
+}
